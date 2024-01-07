@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "148112083354",
+    "firebase_url": "https://amiibo-finder-default-rtdb.firebaseio.com",
+    "project_id": "amiibo-finder",
+    "storage_bucket": "amiibo-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148112083354:android:20e296c9c79b6b3bc8d223",
+        "android_client_info": {
+          "package_name": "com.example.project02_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148112083354-ub5vpfsfr486rfps95i8lpsnl6l03hdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1uV4FEwXGVltjib6tn1_fzt9OSCtbtgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148112083354-ub5vpfsfr486rfps95i8lpsnl6l03hdd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148112083354-eonrrsrka7jrpa608mo6qr53sb1ut3kg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project02Api"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

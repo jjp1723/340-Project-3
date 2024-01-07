@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>148112083354-eonrrsrka7jrpa608mo6qr53sb1ut3kg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.148112083354-eonrrsrka7jrpa608mo6qr53sb1ut3kg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrkM1Yd3rxc5xW-hUydNv-LCzq0YIbqSI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>148112083354</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.project02Api</string>
+	<key>PROJECT_ID</key>
+	<string>amiibo-finder</string>
+	<key>STORAGE_BUCKET</key>
+	<string>amiibo-finder.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:148112083354:ios:6b9ea8e6d0267e8ec8d223</string>
+	<key>DATABASE_URL</key>
+	<string>https://amiibo-finder-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
